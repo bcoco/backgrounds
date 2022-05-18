@@ -1,5 +1,4 @@
-# backgrounds
-multiple backgrounds, etc.
+https://css-tricks.com/a-complete-guide-to-css-gradients/
 
 ## Multiple Background CSS
 ```/* Working method */
