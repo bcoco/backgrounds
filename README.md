@@ -12,6 +12,7 @@
     /* bottom, image */
     url(image.jpg);
 }
+```
 
 ## Background Position
 first value is horizontal, second is vertical
