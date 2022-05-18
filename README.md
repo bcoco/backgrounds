@@ -1,4 +1,4 @@
-https://css-tricks.com/a-complete-guide-to-css-gradients/
+
 
 ## Multiple Background CSS
 ```/* Working method */
@@ -15,3 +15,6 @@ https://css-tricks.com/a-complete-guide-to-css-gradients/
 
 ## Background Position
 first value is horizontal, second is vertical
+
+## gradients
+Since so much of this relies on understanding gradients... https://css-tricks.com/a-complete-guide-to-css-gradients/
