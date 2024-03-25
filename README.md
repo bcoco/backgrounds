@@ -14,7 +14,7 @@
 }
 ```
 Syntax can live within each line, basically:
-```background: 
+```.the-div { background: 
   url('background1.jpg') no-repeat top left,
   url('background2.jpg') repeat-x bottom center;
   /* Adjust background positions, repeat settings, etc. as needed */
